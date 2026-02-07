@@ -1,5 +1,4 @@
 <div align="center">
-
-[![ccblocks](./hero.svg?t=1759797596)](https://github.com/designorant/ccblocks)
-
+  <a href="https://github.com/designorant/ccblocks"><img src="./ccblocks-hero.svg" width="49%" /></a>
+  <a href="https://github.com/designorant/dockroute"><img src="./dockroute-hero.svg" width="49%" /></a>
 </div>
